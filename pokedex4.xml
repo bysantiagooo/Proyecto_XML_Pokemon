@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokedex region="Sinnoh">
+    <pokemon>
+        <id>387</id>
+        <nombre>Turtwig</nombre>
+        <tipo>Planta</tipo>
+        <altura>0.4 m</altura>
+        <peso>10.2 kg</peso>
+        <descripcion>Turtwig lleva un pequeño brote en su cabeza que crece si se expone al sol.</descripcion>
+        <evolucion>Grotle</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>388</id>
+        <nombre>Grotle</nombre>
+        <tipo>Planta</tipo>
+        <altura>1.1 m</altura>
+        <peso>97.0 kg</peso>
+        <descripcion>Grotle busca charcas de agua donde los Pokémon puedan comer el musgo de su espalda.</descripcion>
+        <evolucion>Torterra</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>389</id>
+        <nombre>Torterra</nombre>
+        <tipo>Planta/Tierra</tipo>
+        <altura>2.2 m</altura>
+        <peso>310.0 kg</peso>
+        <descripcion>En el lomo de Torterra crecen árboles, y algunos Pokémon pequeños viven en él.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>390</id>
+        <nombre>Chimchar</nombre>
+        <tipo>Fuego</tipo>
+        <altura>0.5 m</altura>
+        <peso>6.2 kg</peso>
+        <descripcion>Chimchar controla la llama de su cola y puede mantenerla encendida incluso bajo la lluvia.</descripcion>
+        <evolucion>Monferno</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>391</id>
+        <nombre>Monferno</nombre>
+        <tipo>Fuego/Lucha</tipo>
+        <altura>0.9 m</altura>
+        <peso>22.0 kg</peso>
+        <descripcion>Monferno usa la llama de su cola para intimidar y lanzar ataques sorpresa desde las alturas.</descripcion>
+        <evolucion>Infernape</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/391.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>392</id>
+        <nombre>Infernape</nombre>
+        <tipo>Fuego/Lucha</tipo>
+        <altura>1.2 m</altura>
+        <peso>55.0 kg</peso>
+        <descripcion>Infernape es rápido y ágil. Lucha usando movimientos acrobáticos y artes marciales.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>393</id>
+        <nombre>Piplup</nombre>
+        <tipo>Agua</tipo>
+        <altura>0.4 m</altura>
+        <peso>5.2 kg</peso>
+        <descripcion>Piplup es orgulloso y no acepta comida de extraños. Nada con gracia a gran velocidad.</descripcion>
+        <evolucion>Prinplup</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>394</id>
+        <nombre>Prinplup</nombre>
+        <tipo>Agua</tipo>
+        <altura>0.8 m</altura>
+        <peso>23.0 kg</peso>
+        <descripcion>Prinplup vive solo y se enfrenta a sus enemigos con las afiladas aletas de sus alas.</descripcion>
+        <evolucion>Empoleon</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>395</id>
+        <nombre>Empoleon</nombre>
+        <tipo>Agua/Acero</tipo>
+        <altura>1.7 m</altura>
+        <peso>84.5 kg</peso>
+        <descripcion>Empoleon tiene un cuerno afilado como una lanza. Su nobleza impone respeto a sus rivales.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png</imagen>
+    </pokemon>
+</pokedex>

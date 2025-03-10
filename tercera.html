@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JUEGOS DE POKEMON</title>
+    <link rel="stylesheet" href="PROYECTO.CSS">
+</head>
+
+<body>
+    <header>
+        <h1 id="tituloprincipal">ROTOMDEX</h1>
+    </header>
+
+    <div class="navbar">
+        <a href="index.HTML">Primera Generacion</a>
+        <a href="segunda.html">Segunda Generacion</a>
+        <a href="tercera.html">Tercera Generacion</a>
+        <a href="cuarta.html">Cuarta Generacion</a>
+        <a href="quinta.html">Quinta Generacion</a>
+        <a href="sexta.html">Sexta Generacion</a>
+        <a href="septima.html">Septima Generacion</a>
+        <a href="octava.html">Octava Generacion</a>
+        <a href="novena.html">Novena Generacion</a>
+    </div>
+
+    <main class="cuerpo">
+        <div class="rotom-screen">
+            <table id="tabla-pokemon" border="1">
+                <tr>
+                    <th>ID</th>
+                    <th>Imagen</th>
+                    <th>Nombre</th>
+                    <th>Tipo</th>
+                    <th>Altura</th>
+                    <th>Peso</th>
+                    <th>Descripción</th>
+                    <th>Evolución</th>
+                </tr>
+            </table>
+        </div>
+    </main>
+
+    <script>
+        const archivoXML = 'pokedex3.xml';
+
+        fetch(archivoXML)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`No se pudo cargar el XML: ${response.statusText}`);
+                }
+                return response.text();
+            })
+            .then(xmlText => {
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+
+                const pokemones = xmlDoc.getElementsByTagName('pokemon');
+                const tabla = document.getElementById('tabla-pokemon');
+
+                for (let i = 0; i < pokemones.length; i++) {
+                    const pokemon = pokemones[i];
+
+                    const id = pokemon.getElementsByTagName('id')[0]?.textContent || 'N/A';
+                    const nombre = pokemon.getElementsByTagName('nombre')[0]?.textContent || 'N/A';
+                    const tipo = pokemon.getElementsByTagName('tipo')[0]?.textContent || 'N/A';
+                    const altura = pokemon.getElementsByTagName('altura')[0]?.textContent || 'N/A';
+                    const peso = pokemon.getElementsByTagName('peso')[0]?.textContent || 'N/A';
+                    const descripcion = pokemon.getElementsByTagName('descripcion')[0]?.textContent || 'N/A';
+                    const evolucion = pokemon.getElementsByTagName('evolucion')[0]?.textContent || 'N/A';
+                    const imagenURL = pokemon.getElementsByTagName('imagen')[0]?.textContent || '';
+
+                    const fila = document.createElement('tr');
+                    fila.innerHTML = `
+                        <td>${id}</td>
+                        <td><img src="${imagenURL}" alt="${nombre}" style="max-width: 80px; height: auto;"></td>
+                        <td>${nombre}</td>
+                        <td>${tipo}</td>
+                        <td>${altura}</td>
+                        <td>${peso}</td>
+                        <td>${descripcion}</td>
+                        <td>${evolucion}</td>
+                    `;
+                    tabla.appendChild(fila);
+                }
+            })
+            .catch(error => {
+                console.error('Error al cargar el XML:', error);
+                const tabla = document.getElementById('tabla-pokemon');
+                tabla.innerHTML += `<tr><td colspan="8">No se pudo cargar la Pokédex: ${error.message}</td></tr>`;
+            });
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokedex region="Galar">
+    <pokemon>
+        <id>810</id>
+        <nombre>Grookey</nombre>
+        <tipo>Planta</tipo>
+        <altura>0.3 m</altura>
+        <peso>5.0 kg</peso>
+        <descripcion>Grookey golpea el suelo con su palo para hacer que las plantas crezcan más rápido.</descripcion>
+        <evolucion>Thwackey</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/810.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>811</id>
+        <nombre>Thwackey</nombre>
+        <tipo>Planta</tipo>
+        <altura>0.7 m</altura>
+        <peso>14.0 kg</peso>
+        <descripcion>Thwackey utiliza sus dos palos para marcar el ritmo en sus combates.</descripcion>
+        <evolucion>Rillaboom</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/811.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>812</id>
+        <nombre>Rillaboom</nombre>
+        <tipo>Planta</tipo>
+        <altura>2.1 m</altura>
+        <peso>90.0 kg</peso>
+        <descripcion>Rillaboom domina el poder de un tambor para lanzar ondas sónicas y ataques devastadores.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/812.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>813</id>
+        <nombre>Scorbunny</nombre>
+        <tipo>Fuego</tipo>
+        <altura>0.3 m</altura>
+        <peso>4.5 kg</peso>
+        <descripcion>Scorbunny es ágil y veloz. Sus pies se calientan a altas temperaturas y puede dar patadas ardientes.</descripcion>
+        <evolucion>Raboot</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/813.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>814</id>
+        <nombre>Raboot</nombre>
+        <tipo>Fuego</tipo>
+        <altura>0.6 m</altura>
+        <peso>9.0 kg</peso>
+        <descripcion>Raboot entrena constantemente sus piernas para mejorar sus habilidades de combate.</descripcion>
+        <evolucion>Cinderace</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/814.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>815</id>
+        <nombre>Cinderace</nombre>
+        <tipo>Fuego</tipo>
+        <altura>1.4 m</altura>
+        <peso>33.0 kg</peso>
+        <descripcion>Cinderace es un delantero experto que usa pelotas de fuego para anotar goles decisivos en combate.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/815.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>816</id>
+        <nombre>Sobble</nombre>
+        <tipo>Agua</tipo>
+        <altura>0.3 m</altura>
+        <peso>4.0 kg</peso>
+        <descripcion>Sobble se camufla en el agua. Llora para lanzar ataques de agua potentes.</descripcion>
+        <evolucion>Drizzile</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/816.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>817</id>
+        <nombre>Drizzile</nombre>
+        <tipo>Agua</tipo>
+        <altura>0.7 m</altura>
+        <peso>11.5 kg</peso>
+        <descripcion>Drizzile es muy sigiloso y usa su astucia para atacar desde las sombras.</descripcion>
+        <evolucion>Inteleon</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/817.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>818</id>
+        <nombre>Inteleon</nombre>
+        <tipo>Agua</tipo>
+        <altura>1.9 m</altura>
+        <peso>45.2 kg</peso>
+        <descripcion>Inteleon es un francotirador preciso que usa agua comprimida para lanzar ataques a gran velocidad.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/818.png</imagen>
+    </pokemon>
+</pokedex>

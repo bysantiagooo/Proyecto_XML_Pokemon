@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokedex region="Hoenn">
+    <pokemon>
+        <id>252</id>
+        <nombre>Treecko</nombre>
+        <tipo>Planta</tipo>
+        <altura>0.5 m</altura>
+        <peso>5.0 kg</peso>
+        <descripcion>Treecko es tranquilo y confiado. Trepa muros empinados sin esfuerzo gracias a sus patas adhesivas.</descripcion>
+        <evolucion>Grovyle</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>253</id>
+        <nombre>Grovyle</nombre>
+        <tipo>Planta</tipo>
+        <altura>0.9 m</altura>
+        <peso>21.6 kg</peso>
+        <descripcion>Grovyle se mueve por los árboles con gran agilidad y utiliza las hojas de sus brazos como cuchillas.</descripcion>
+        <evolucion>Sceptile</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>254</id>
+        <nombre>Sceptile</nombre>
+        <tipo>Planta</tipo>
+        <altura>1.7 m</altura>
+        <peso>52.2 kg</peso>
+        <descripcion>Sceptile cultiva semillas en su espalda. Es rápido y letal en combate en la selva.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>255</id>
+        <nombre>Torchic</nombre>
+        <tipo>Fuego</tipo>
+        <altura>0.4 m</altura>
+        <peso>2.5 kg</peso>
+        <descripcion>Torchic lanza bolas de fuego a 1000 ºC. Le encanta seguir a su entrenador a todos lados.</descripcion>
+        <evolucion>Combusken</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>256</id>
+        <nombre>Combusken</nombre>
+        <tipo>Fuego/Lucha</tipo>
+        <altura>0.9 m</altura>
+        <peso>19.5 kg</peso>
+        <descripcion>Combusken patea con tal fuerza que puede romper bloques de concreto. Es rápido y fuerte.</descripcion>
+        <evolucion>Blaziken</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>257</id>
+        <nombre>Blaziken</nombre>
+        <tipo>Fuego/Lucha</tipo>
+        <altura>1.9 m</altura>
+        <peso>52.0 kg</peso>
+        <descripcion>Blaziken puede lanzar potentes puñetazos y patadas envueltos en llamas. Salta edificios de un solo impulso.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>258</id>
+        <nombre>Mudkip</nombre>
+        <tipo>Agua</tipo>
+        <altura>0.4 m</altura>
+        <peso>7.6 kg</peso>
+        <descripcion>Mudkip es fuerte a pesar de su tamaño. Puede mover rocas grandes con su poderosa aleta.</descripcion>
+        <evolucion>Marshtomp</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>259</id>
+        <nombre>Marshtomp</nombre>
+        <tipo>Agua/Tierra</tipo>
+        <altura>0.7 m</altura>
+        <peso>28.0 kg</peso>
+        <descripcion>Marshtomp puede caminar por el lodo y usa su fuerza para excavar y nadar en aguas turbias.</descripcion>
+        <evolucion>Swampert</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>260</id>
+        <nombre>Swampert</nombre>
+        <tipo>Agua/Tierra</tipo>
+        <altura>1.5 m</altura>
+        <peso>81.9 kg</peso>
+        <descripcion>Swampert es extremadamente fuerte. Puede arrastrar barcos y predecir tormentas analizando las olas.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png</imagen>
+    </pokemon>
+</pokedex>

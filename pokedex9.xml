@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokedex region="Paldea">
+    <pokemon>
+        <id>906</id>
+        <nombre>Sprigatito</nombre>
+        <tipo>Planta</tipo>
+        <altura>0.4 m</altura>
+        <peso>4.1 kg</peso>
+        <descripcion>Su suave pelaje libera un aroma que hipnotiza a quienes lo huelen. Frote su pelaje para extraer energía.</descripcion>
+        <evolucion>Floragato</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/906.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>907</id>
+        <nombre>Floragato</nombre>
+        <tipo>Planta</tipo>
+        <altura>0.9 m</altura>
+        <peso>12.2 kg</peso>
+        <descripcion>Usa su liana extensible como látigo para atacar y manipular objetos con gran precisión.</descripcion>
+        <evolucion>Meowscarada</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/907.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>908</id>
+        <nombre>Meowscarada</nombre>
+        <tipo>Planta/Siniestro</tipo>
+        <altura>1.5 m</altura>
+        <peso>31.2 kg</peso>
+        <descripcion>Domina el arte del ilusionismo y usa su magia floral para confundir a sus oponentes.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/908.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>909</id>
+        <nombre>Fuecoco</nombre>
+        <tipo>Fuego</tipo>
+        <altura>0.4 m</altura>
+        <peso>9.8 kg</peso>
+        <descripcion>Relajado y despreocupado, recoge calor en la escama de su cabeza, que brilla como el fuego.</descripcion>
+        <evolucion>Crocalor</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/909.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>910</id>
+        <nombre>Crocalor</nombre>
+        <tipo>Fuego</tipo>
+        <altura>1.0 m</altura>
+        <peso>30.7 kg</peso>
+        <descripcion>El fuego en su cabeza se ha convertido en un huevo que brilla intensamente mientras ataca.</descripcion>
+        <evolucion>Skeledirge</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/910.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>911</id>
+        <nombre>Skeledirge</nombre>
+        <tipo>Fuego/Fantasma</tipo>
+        <altura>3.0 m</altura>
+        <peso>326.5 kg</peso>
+        <descripcion>Canta melodías llenas de energía ardiente que dan vida a sus ataques espectrales.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/911.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>912</id>
+        <nombre>Quaxly</nombre>
+        <tipo>Agua</tipo>
+        <altura>0.5 m</altura>
+        <peso>6.1 kg</peso>
+        <descripcion>Su plumaje limpio repele la suciedad y el agua. Es ordenado y le disgusta ensuciarse.</descripcion>
+        <evolucion>Quaxwell</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/912.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>913</id>
+        <nombre>Quaxwell</nombre>
+        <tipo>Agua</tipo>
+        <altura>1.2 m</altura>
+        <peso>21.5 kg</peso>
+        <descripcion>Practica constantemente sus patadas, que usa en danzas elegantes y potentes durante el combate.</descripcion>
+        <evolucion>Quaquaval</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/913.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>914</id>
+        <nombre>Quaquaval</nombre>
+        <tipo>Agua/Lucha</tipo>
+        <altura>1.8 m</altura>
+        <peso>61.9 kg</peso>
+        <descripcion>Baila sin parar, incluso en la batalla. Usa movimientos de danza para lanzar ataques devastadores.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/914.png</imagen>
+    </pokemon>
+</pokedex>

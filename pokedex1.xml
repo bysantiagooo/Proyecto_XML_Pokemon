@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokedex region="Kanto">
+    <pokemon>
+        <id>001</id>
+        <nombre>Bulbasaur</nombre>
+        <tipo>Planta/Veneno</tipo>
+        <altura>0.7 m</altura>
+        <peso>6.9 kg</peso>
+        <descripcion>Un Pokémon que nace con una semilla en el lomo. Absorbe nutrientes a medida que crece.</descripcion>
+        <evolucion>Ivysaur</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>002</id>
+        <nombre>Ivysaur</nombre>
+        <tipo>Planta/Veneno</tipo>
+        <altura>1.0 m</altura>
+        <peso>13.0 kg</peso>
+        <descripcion>Cuando el bulbo de su espalda crece, emite un dulce aroma que indica su madurez.</descripcion>
+        <evolucion>Venusaur</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>003</id>
+        <nombre>Venusaur</nombre>
+        <tipo>Planta/Veneno</tipo>
+        <altura>2.0 m</altura>
+        <peso>100.0 kg</peso>
+        <descripcion>La flor de su espalda libera un fuerte aroma que calma a las personas cercanas.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>004</id>
+        <nombre>Charmander</nombre>
+        <tipo>Fuego</tipo>
+        <altura>0.6 m</altura>
+        <peso>8.5 kg</peso>
+        <descripcion>La llama de su cola indica su fuerza vital. Arde con más intensidad cuando está saludable.</descripcion>
+        <evolucion>Charmeleon</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>005</id>
+        <nombre>Charmeleon</nombre>
+        <tipo>Fuego</tipo>
+        <altura>1.1 m</altura>
+        <peso>19.0 kg</peso>
+        <descripcion>Un Pokémon agresivo que lanza llamaradas cuando se enfada y busca oponentes fuertes.</descripcion>
+        <evolucion>Charizard</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>006</id>
+        <nombre>Charizard</nombre>
+        <tipo>Fuego/Volador</tipo>
+        <altura>1.7 m</altura>
+        <peso>90.5 kg</peso>
+        <descripcion>Escupe fuego tan caliente que puede fundir rocas. Prefiere luchar contra enemigos poderosos.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>007</id>
+        <nombre>Squirtle</nombre>
+        <tipo>Agua</tipo>
+        <altura>0.5 m</altura>
+        <peso>9.0 kg</peso>
+        <descripcion>Cuando se siente en peligro, se esconde en su caparazón mientras lanza agua a presión.</descripcion>
+        <evolucion>Wartortle</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>008</id>
+        <nombre>Wartortle</nombre>
+        <tipo>Agua</tipo>
+        <altura>1.0 m</altura>
+        <peso>22.5 kg</peso>
+        <descripcion>Sus orejas peludas y cola le ayudan a nadar rápidamente. Es un símbolo de longevidad.</descripcion>
+        <evolucion>Blastoise</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>009</id>
+        <nombre>Blastoise</nombre>
+        <tipo>Agua</tipo>
+        <altura>1.6 m</altura>
+        <peso>85.5 kg</peso>
+        <descripcion>Sus potentes cañones de agua pueden perforar el acero. Es muy respetado por su fuerza.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png</imagen>
+    </pokemon>

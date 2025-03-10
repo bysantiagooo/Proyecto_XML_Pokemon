@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokedex region="Johto">
+    <pokemon>
+        <id>152</id>
+        <nombre>Chikorita</nombre>
+        <tipo>Planta</tipo>
+        <altura>0.9 m</altura>
+        <peso>6.4 kg</peso>
+        <descripcion>Chikorita usa la hoja de su cabeza para medir la temperatura y la humedad.</descripcion>
+        <evolucion>Bayleef</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>153</id>
+        <nombre>Bayleef</nombre>
+        <tipo>Planta</tipo>
+        <altura>1.2 m</altura>
+        <peso>15.8 kg</peso>
+        <descripcion>El cuello de Bayleef está rodeado de hojas aromáticas que estimulan el cuerpo.</descripcion>
+        <evolucion>Meganium</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>154</id>
+        <nombre>Meganium</nombre>
+        <tipo>Planta</tipo>
+        <altura>1.8 m</altura>
+        <peso>100.5 kg</peso>
+        <descripcion>Meganium libera un aroma que calma las emociones y revive la vegetación marchita.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>155</id>
+        <nombre>Cyndaquil</nombre>
+        <tipo>Fuego</tipo>
+        <altura>0.5 m</altura>
+        <peso>7.9 kg</peso>
+        <descripcion>Las llamas de su espalda se encienden cuando está enfadado o sorprendido.</descripcion>
+        <evolucion>Quilava</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>156</id>
+        <nombre>Quilava</nombre>
+        <tipo>Fuego</tipo>
+        <altura>0.9 m</altura>
+        <peso>19.0 kg</peso>
+        <descripcion>Quilava domina el uso de las llamas y puede esquivar ataques con su agilidad.</descripcion>
+        <evolucion>Typhlosion</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>157</id>
+        <nombre>Typhlosion</nombre>
+        <tipo>Fuego</tipo>
+        <altura>1.7 m</altura>
+        <peso>79.5 kg</peso>
+        <descripcion>Typhlosion crea explosiones de fuego que lo envuelven en un halo ardiente.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>158</id>
+        <nombre>Totodile</nombre>
+        <tipo>Agua</tipo>
+        <altura>0.6 m</altura>
+        <peso>9.5 kg</peso>
+        <descripcion>Totodile es pequeño pero muy fuerte. Le gusta morderlo todo sin razón aparente.</descripcion>
+        <evolucion>Croconaw</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>159</id>
+        <nombre>Croconaw</nombre>
+        <tipo>Agua</tipo>
+        <altura>1.1 m</altura>
+        <peso>25.0 kg</peso>
+        <descripcion>Croconaw tiene colmillos poderosos que atrapan a su presa sin soltarla jamás.</descripcion>
+        <evolucion>Feraligatr</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png</imagen>
+    </pokemon>
+    
+    <pokemon>
+        <id>160</id>
+        <nombre>Feraligatr</nombre>
+        <tipo>Agua</tipo>
+        <altura>2.3 m</altura>
+        <peso>88.8 kg</peso>
+        <descripcion>Feraligatr es tan fuerte que puede derribar a su oponente de un solo golpe de sus fauces.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png</imagen>
+    </pokemon>
+</pokedex>
+

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokedex region="Unova">
+    <pokemon>
+        <id>495</id>
+        <nombre>Snivy</nombre>
+        <tipo>Planta</tipo>
+        <altura>0.6 m</altura>
+        <peso>8.1 kg</peso>
+        <descripcion>Snivy es elegante y rápido. Absorbe la luz solar con su cola para incrementar su velocidad.</descripcion>
+        <evolucion>Servine</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>496</id>
+        <nombre>Servine</nombre>
+        <tipo>Planta</tipo>
+        <altura>0.8 m</altura>
+        <peso>16.0 kg</peso>
+        <descripcion>Servine se desliza rápidamente entre la hierba para atacar de forma sorpresiva.</descripcion>
+        <evolucion>Serperior</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/496.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>497</id>
+        <nombre>Serperior</nombre>
+        <tipo>Planta</tipo>
+        <altura>3.3 m</altura>
+        <peso>63.0 kg</peso>
+        <descripcion>Serperior emite una energía que frena los movimientos del oponente solo con su mirada.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>498</id>
+        <nombre>Tepig</nombre>
+        <tipo>Fuego</tipo>
+        <altura>0.5 m</altura>
+        <peso>9.9 kg</peso>
+        <descripcion>Tepig lanza pequeñas bolas de fuego por su nariz cuando se siente amenazado.</descripcion>
+        <evolucion>Pignite</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>499</id>
+        <nombre>Pignite</nombre>
+        <tipo>Fuego/Lucha</tipo>
+        <altura>1.0 m</altura>
+        <peso>55.5 kg</peso>
+        <descripcion>Pignite controla sus llamas internas para lanzar ataques de fuego mientras combate cuerpo a cuerpo.</descripcion>
+        <evolucion>Emboar</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/499.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>500</id>
+        <nombre>Emboar</nombre>
+        <tipo>Fuego/Lucha</tipo>
+        <altura>1.6 m</altura>
+        <peso>150.0 kg</peso>
+        <descripcion>Emboar lanza potentes ataques envueltos en llamas mientras pelea sin descanso en el combate cuerpo a cuerpo.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>501</id>
+        <nombre>Oshawott</nombre>
+        <tipo>Agua</tipo>
+        <altura>0.5 m</altura>
+        <peso>5.9 kg</peso>
+        <descripcion>Oshawott usa su concha como arma y escudo en los combates. Es ágil tanto en tierra como en el agua.</descripcion>
+        <evolucion>Dewott</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>502</id>
+        <nombre>Dewott</nombre>
+        <tipo>Agua</tipo>
+        <altura>0.8 m</altura>
+        <peso>24.5 kg</peso>
+        <descripcion>Dewott maneja sus conchas con gran destreza y realiza movimientos de combate tipo esgrima.</descripcion>
+        <evolucion>Samurott</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/502.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>503</id>
+        <nombre>Samurott</nombre>
+        <tipo>Agua</tipo>
+        <altura>1.5 m</altura>
+        <peso>94.6 kg</peso>
+        <descripcion>Samurott porta una armadura resistente y usa un cuerno afilado para realizar ataques precisos y potentes.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png</imagen>
+    </pokemon>
+</pokedex>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokedex region="Alola">
+    <pokemon>
+        <id>722</id>
+        <nombre>Rowlet</nombre>
+        <tipo>Planta/Volador</tipo>
+        <altura>0.3 m</altura>
+        <peso>1.5 kg</peso>
+        <descripcion>Ataca lanzando hojas afiladas mientras vuela silenciosamente de noche.</descripcion>
+        <evolucion>Dartrix</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>723</id>
+        <nombre>Dartrix</nombre>
+        <tipo>Planta/Volador</tipo>
+        <altura>0.7 m</altura>
+        <peso>16.0 kg</peso>
+        <descripcion>Es muy coqueto, se peina las plumas constantemente y ataca con gran precisión.</descripcion>
+        <evolucion>Decidueye</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/723.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>724</id>
+        <nombre>Decidueye</nombre>
+        <tipo>Planta/Fantasma</tipo>
+        <altura>1.6 m</altura>
+        <peso>36.6 kg</peso>
+        <descripcion>Dispara flechas hechas de sus propias plumas. Es capaz de volverse invisible.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>725</id>
+        <nombre>Litten</nombre>
+        <tipo>Fuego</tipo>
+        <altura>0.4 m</altura>
+        <peso>4.3 kg</peso>
+        <descripcion>Sus bolas de pelo arden como proyectiles. Es distante, pero muy leal.</descripcion>
+        <evolucion>Torracat</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>726</id>
+        <nombre>Torracat</nombre>
+        <tipo>Fuego</tipo>
+        <altura>0.7 m</altura>
+        <peso>25.0 kg</peso>
+        <descripcion>El cascabel en su cuello produce llamas y un sonido profundo al atacar.</descripcion>
+        <evolucion>Incineroar</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/726.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>727</id>
+        <nombre>Incineroar</nombre>
+        <tipo>Fuego/Siniestro</tipo>
+        <altura>1.8 m</altura>
+        <peso>83.0 kg</peso>
+        <descripcion>Un rudo luchador que lanza ataques potentes envueltos en llamas. No tiene piedad con sus oponentes.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>728</id>
+        <nombre>Popplio</nombre>
+        <tipo>Agua</tipo>
+        <altura>0.4 m</altura>
+        <peso>7.5 kg</peso>
+        <descripcion>Popplio es ágil en el agua y crea burbujas que usa como pelotas para atacar o jugar.</descripcion>
+        <evolucion>Brionne</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/728.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>729</id>
+        <nombre>Brionne</nombre>
+        <tipo>Agua</tipo>
+        <altura>0.6 m</altura>
+        <peso>17.5 kg</peso>
+        <descripcion>Baila elegantemente mientras combate. Usa movimientos rítmicos para esquivar ataques.</descripcion>
+        <evolucion>Primarina</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/729.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>730</id>
+        <nombre>Primarina</nombre>
+        <tipo>Agua/Hada</tipo>
+        <altura>1.8 m</altura>
+        <peso>44.0 kg</peso>
+        <descripcion>Emite cantos hipnóticos y controla globos de agua para atacar a sus oponentes.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png</imagen>
+    </pokemon>
+</pokedex>

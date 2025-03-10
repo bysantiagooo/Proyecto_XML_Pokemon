@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokedex region="Kalos">
+    <pokemon>
+        <id>650</id>
+        <nombre>Chespin</nombre>
+        <tipo>Planta</tipo>
+        <altura>0.4 m</altura>
+        <peso>9.0 kg</peso>
+        <descripcion>La cáscara que cubre su cabeza es dura como el metal. Se defiende lanzándose de cabeza al enemigo.</descripcion>
+        <evolucion>Quilladin</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/650.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>651</id>
+        <nombre>Quilladin</nombre>
+        <tipo>Planta</tipo>
+        <altura>0.7 m</altura>
+        <peso>29.0 kg</peso>
+        <descripcion>El caparazón que lo protege es tan duro que puede resistir ataques sin recibir daño.</descripcion>
+        <evolucion>Chesnaught</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/651.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>652</id>
+        <nombre>Chesnaught</nombre>
+        <tipo>Planta/Lucha</tipo>
+        <altura>1.6 m</altura>
+        <peso>90.0 kg</peso>
+        <descripcion>Chesnaught es capaz de detener un camión en marcha con sus brazos cubiertos de espinas.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>653</id>
+        <nombre>Fennekin</nombre>
+        <tipo>Fuego</tipo>
+        <altura>0.4 m</altura>
+        <peso>9.4 kg</peso>
+        <descripcion>Exhala aire caliente por sus orejas que puede alcanzar los 200 grados para defenderse.</descripcion>
+        <evolucion>Braixen</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>654</id>
+        <nombre>Braixen</nombre>
+        <tipo>Fuego</tipo>
+        <altura>1.0 m</altura>
+        <peso>14.5 kg</peso>
+        <descripcion>Utiliza una rama encendida que guarda en su cola como si fuera una varita mágica.</descripcion>
+        <evolucion>Delphox</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/654.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>655</id>
+        <nombre>Delphox</nombre>
+        <tipo>Fuego/Psíquico</tipo>
+        <altura>1.5 m</altura>
+        <peso>39.0 kg</peso>
+        <descripcion>Controla las llamas y el poder psíquico para atacar a sus enemigos sin compasión.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>656</id>
+        <nombre>Froakie</nombre>
+        <tipo>Agua</tipo>
+        <altura>0.3 m</altura>
+        <peso>7.0 kg</peso>
+        <descripcion>Se protege con burbujas de espuma que amortiguan los ataques enemigos.</descripcion>
+        <evolucion>Frogadier</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/656.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>657</id>
+        <nombre>Frogadier</nombre>
+        <tipo>Agua</tipo>
+        <altura>0.6 m</altura>
+        <peso>10.9 kg</peso>
+        <descripcion>Se desplaza a gran velocidad y es capaz de escalar edificios con facilidad.</descripcion>
+        <evolucion>Greninja</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/657.png</imagen>
+    </pokemon>
+
+    <pokemon>
+        <id>658</id>
+        <nombre>Greninja</nombre>
+        <tipo>Agua/Siniestro</tipo>
+        <altura>1.5 m</altura>
+        <peso>40.0 kg</peso>
+        <descripcion>Lanza shuriken de agua a alta velocidad. Se mueve como un ninja y es extremadamente ágil.</descripcion>
+        <evolucion>Final</evolucion>
+        <imagen>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png</imagen>
+    </pokemon>
+</pokedex>
