@@ -33,34 +33,16 @@ header{
     transition: background-color 0.3s, color 0.3s, transform 0.2s;
     background-color: #ff4242;
 }
-.pagina2  {
-    text-decoration: none;
-    color: #fdfdfd;
-    font-size: 16px;
-    padding: 10px 15px;
-    border-radius: 5px;
-    transition: background-color 0.3s, color 0.3s, transform 0.2s;
-    background-color: #ff4242;
+
 }
-a {
-    text-decoration: none;
-    color: #f3fdfd; 
-    transition: color 0.3s ease, text-shadow 0.3s ease;
-}
+
 
 #tituloprincipal{
    text-align: center;
 }
 
-img{
-    height: 200px;
-   
-}
-.iniciales{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
+
 .pokemon-table {
     width: 80%;
     margin: 20px auto;
@@ -97,11 +79,7 @@ img{
 .pokemon-table td {
     font-size: 16px;
 }
-.negro{
-    color: rgb(250, 246, 246);
-    font-size:large;
-    background-color: rgb(0, 0, 0);    
-}
+
 
 .navbar {
     background-color: #333; 
