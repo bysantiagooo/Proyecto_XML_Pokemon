@@ -42,45 +42,6 @@ header{
 }
 
 
-
-.pokemon-table {
-    width: 80%;
-    margin: 20px auto;
-    border-collapse: collapse;
-    background-color: #fff;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    overflow: hidden;
-}
-
-.pokemon-table thead {
-    background-color: #ff4242;
-    color: white;
-}
-
-.pokemon-table th, .pokemon-table td {
-    padding: 15px;
-    text-align: center;
-    border: 1px solid #ddd;
-}
-
-
-
-.pokemon-table tbody tr:hover {
-    background-color: #ffcb05;
-    color: #2a75bb;
-}
-
-.pokemon-table th {
-    font-size: 18px;
-    font-weight: bold;
-}
-
-.pokemon-table td {
-    font-size: 16px;
-}
-
-
 .navbar {
     background-color: #333; 
     overflow: hidden;
